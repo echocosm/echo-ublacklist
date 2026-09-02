@@ -6,15 +6,15 @@ name: echo-uBlacklist
 
 # Wikipedia
 @1 host = "en.wikipedia.org"
-
+@2 host = "simple.wikipedia.org"
 
 # The Daily Mail
 host =~ /(^|\.)dailymail\.(co\.uk|com)$/
 host =~ /(^|\.)mailplus\.(co\.uk|com)$/
 host =~ /(^|\.)mailonline\.pressreader\.com$/
 host = "dailymail.substack.com"
-
 host = "www.msn.com" & path =~ /^\/en-us\/channel\/source\/daily%20mail/i
+
 #The Guardian
 host =~ /(^|\.)theguardian\.(co\.uk|com)$/
 host =~ /www.theguardian\.(co\.uk|com)$/

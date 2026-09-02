@@ -18,7 +18,7 @@ I added a bunch of large blocklists and decided to consolidate them into one so 
 
 ---
 
-<a href="https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Fechocosm%2Fecho-ublacklist%2Frefs%2Fheads%2Fmain%2Fecho-ublacklist.txt">
+<a href="https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Fechocosm%2Fecho-ublacklist%2Fmain%2Fecho-ublacklist.txt">
   <img src="images/add-echo-ublacklist.png" height="100">
 </a>
 
@@ -32,7 +32,7 @@ If the button doesn't work, add it manually:
 4. Paste this into the **URL** field:
 
 ```text
-https://raw.githubusercontent.com/echocosm/echo-ublacklist/refs/heads/main/echo-ublacklist.txt
+https://raw.githubusercontent.com/echocosm/echo-ublacklist/main/echo-ublacklist.txt
 ```
 
 5. Leave the other two fields as they are.
