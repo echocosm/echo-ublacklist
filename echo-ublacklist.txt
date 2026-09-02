@@ -61,6 +61,7 @@ host = "www.youtube.com" & path =~ /^\/dailymail/
 host = "www.youtube.com" & path =~ /^\/c\/dailymail/
 host = "www.youtube.com" & path =~ /^\/@DailyMail_News/ & title =~ /Daily Mail/i
 host = "www.youtube.com" & path =~ /^\/channel\/UCw3fku0sH3qA3c3pZeJwdAw/ & title =~ /Daily Mail/i
+host = "www.youtube.com" & path =~ /^\/channel\/UCGApTJ1s35uvOV2V_R8dQwA/
 # Youtube - The Sun
 host = "www.youtube.com" & path =~ /^\/channel\/UCHpw8xwDNhU9gdohEcJu4aA/
 host = "www.youtube.com" & path =~ /^\/channel\/UCIRYBXDze5krPDzAEOxFGVA/
