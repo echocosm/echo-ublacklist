@@ -1,24 +1,19 @@
-# echo-aggregated-blocklist
 
-ublacklist blocks results from certain domains from appearing in search engines.
+ublacklist is a firefox extension that blocks results from certain domains from appearing in search engines
 
-I added a bunch of large blocklists and decided to consolidate them into one so it would be easier for anyone who wants it.
+I added a bunch of large blocklists and decided to consolidate them into one so it would be easier for anyone who wants it
 
 ---
 
-## <p align="center">
 <a href="https://addons.mozilla.org/en-US/firefox/addon/ublacklist/">
-<img src="https://img.shields.io/badge/Install_uBlacklist_for_Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="50">
+  <img src="images/ublacklist.png" height="100">
 </a>
-</p>
 
-
-
-More information about uBlacklist can be found in the [documentation](https://iorate.github.io/ublacklist/docs).
+[More information about uBlacklist](https://iorate.github.io/ublacklist/docs).
 
 ---
 
-## <p align="center">
+<p align="center">
 <a href="https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Fechocosm%2Fecho-ublacklist%2Fmain%2Fecho-ublacklist.txt">
 <img src="https://img.shields.io/badge/Add_Aggregated_Blocklist-4A90E2?style=for-the-badge" height="50">
 </a>
