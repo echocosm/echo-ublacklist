@@ -1,5 +1,5 @@
 ---
-name: echo-ublacklist
+name: echo-uBlacklist
 ---
 
 # echo -------------------------------------- START OF CUSTOM
