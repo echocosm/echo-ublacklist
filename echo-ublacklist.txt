@@ -1,3 +1,7 @@
+---
+name: Aggregated Blocklist
+---
+
 # Wikipedia
 @1host = "en.wikipedia.org"
 
