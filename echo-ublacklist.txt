@@ -128,8 +128,7 @@ host = "guardian.pressreader.com"
 host = "www.pressreader.com" & path *= "/newspapers/n/the-daily-telegraph"
 
 # Apple App Store - Daily Mail
-host = "apps.apple.com" & path *= "gb/app/daily-mail-newspaper/id579607657"
-host = "apps.apple.com" & path *= "gb/app/daily-mail-newspaper/id579607657"
+host = "apps.apple.com" & path =~ /^\/[^\/]+\/app\/daily-?mail/i
 host = "apps.apple.com" & path *= "us/app/the-guardian-us-world-news"
 host = "apps.apple.com" & path *= "gb/app/the-guardian-uk-world-news"
 host = "apps.apple.com" & path *= "gb/app/the-sun-mobile-daily-news"
