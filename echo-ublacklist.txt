@@ -531,3 +531,1279 @@ host = "apps.apple.com" & path =~ /^\/gb\/app\/the-telegraph-uk-world-news\/id38
 *://*.sparheld.de/*
 *://*.meingutscheincode.de/*
 
+
+# name: Conspiracy Media (light version)
+# description: Hides (most) Conspiracy Media sites
+# homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
+
+# 21st Century Wire (USA)
+*://*.21stcenturywire.com/*
+
+# 369News (Unknown)
+*://*.369news.net/*
+
+# ACN Latitudes (USA)
+*://*.latitudes.org/*
+
+# Activist Post (Unknown)
+*://*.activistpost.com/*
+
+# Actualized.org (USA)
+*://*.actualized.org/*
+
+# ADDitude Magazine (USA)
+*://*.additudemag.com/*
+
+# Newsinstact.com (Romania)
+*://*.newsinstact.com/*
+
+# Natural Health Response (USA)
+*://*.naturalhealthresponse.com/*
+
+# Alliance for Human Research Protection (USA)
+*://*.ahrp.org/*
+
+# Alliance for Natural Health International (UK)
+*://*.anhinternational.org/*
+
+# Alliance for Natural Health (USA)
+*://*.anh-usa.org/*
+
+# Altermed Zentrum (Unknown)
+*://*.altermedzentrum.com/*
+
+# Alternative Daily (USA)
+*://*.thealternativedaily.com/*
+
+# AltHealth Works (USA)
+*://*.althealthworks.com/*
+
+# Ancient Code (Unknown)
+*://*.ancient-code.com/*
+
+# Ancient Origins (Ireland)
+*://*.ancient-origins.net/*
+
+# Anewspost.com (USA)
+*://*.anewspost.com/*
+
+# Anya Vien (USA)
+*://*.anyavien.com/*
+
+# Apost.com (Germany)
+*://*.apost.com/*
+
+# Architects & Engineers for 9/11 Truth (USA)
+*://*.ae911truth.org/*
+
+# Asia-Pacific Research (Canada)
+*://*.asia-pacificresearch.com/*
+
+# Assassination Science (USA)
+*://*.assassinationscience.com/*
+
+# Autism Speaks (USA)
+*://*.autismspeaks.org/*
+
+# Awareness Act (USA)
+*://*.awarenessact.com/*
+
+# Biologos Foundation (USA)
+*://*.biologos.org/*
+
+# Bioscience Resource Project (USA)
+*://*.bioscienceresource.org/*
+
+# Blacklisted News (USA)
+*://*.blacklistednews.com/*
+
+# BrightSide (Cyprus)
+*://*.brightside.me/*
+
+# Climate Change Dispatch (USA)
+*://*.climatechangedispatch.com/*
+
+# Climate Etc (USA)
+*://*.judithcurry.com/*
+
+# Coast to Coast AM (USA)
+*://*.coasttocoastam.com/*
+
+# Collective-Evolution (Canada)
+*://*.collective-evolution.com/*
+
+# Conscious Life News (USA)
+*://*.consciouslifenews.com/*
+
+# Corruptico (Unknown)
+*://*.corruptico.com/*
+
+# Cosmic Intelligence Agency (Australia)
+*://*.cosmicintelligenceagency.com/*
+
+# Covert Geopolitics (USA)
+*://*.geopolitics.co/*
+
+# Cureus Journal of Medical Science (USA)
+*://*.cureus.com/*
+
+# Curious Mind Magazine (USA)
+*://*.curiousmindmagazine.com/*
+
+# Daily Grail (Australia)
+*://*.dailygrail.com/*
+
+# DailyHealthPost (Canada)
+*://*.dailyhealthpost.com/*
+
+# Dark Journalist (USA)
+*://*.darkjournalist.com/*
+
+# David Icke (UK)
+*://*.davidicke.com/*
+
+# David Wolfe (USA)
+*://*.davidwolfe.com/*
+
+# Dissident Voice (USA)
+*://*.dissidentvoice.org/*
+
+# Doctors for Covid Ethics (Switzerland)
+*://*.doctors4covidethics.org/*
+
+# Dr. Axe (USA)
+*://*.draxe.com/*
+
+# Dr. Morse TV (USA)
+*://*.drmorse.tv/*
+
+# DrNorthrup.com (USA)
+*://*.drnorthrup.com/*
+
+# DrTrozzi.org (Canada)
+*://*.drtrozzi.org/*
+
+# Educate Yourself (USA)
+*://*.educate-yourself.org/*
+
+# Electroverse (Unknown)
+*://*.electroverse.net/*
+
+# Eluxe Magazine (UK)
+*://*.eluxemagazine.com/*
+
+# Environmental Working Group (USA)
+*://*.ewg.org/*
+
+# Evolution News and Science Today (USA)
+*://*.evolutionnews.org/*
+
+# Fabiosa (Ukraine)
+*://*.fabiosa.com/*
+
+# Faith Panda (Kenya)
+*://*.faithpanda.com/*
+
+# Flat Earth Society (Unknown)
+*://*.tfes.org/*
+
+# Fleming-Method (USA)
+*://*.flemingmethod.com/*
+
+# Food Babe (USA)
+*://*.foodbabe.com/*
+
+# Food Matters (Australia)
+*://*.foodmatters.com/*
+
+# Forever Conscious (USA)
+*://*.foreverconscious.com/*
+
+# Free Thought Project (USA)
+*://*.thefreethoughtproject.com/*
+
+# Gaia (USA)
+*://*.gaia.com/*
+
+# GeoEngineering Watch (USA)
+*://*.geoengineeringwatch.org/*
+
+# Geopolitical Economy Report (USA)
+*://*.geopoliticaleconomy.com/*
+
+# Get Holistic Health (Unknown)
+*://*.getholistichealth.com/*
+
+# Giza Death Star (USA)
+*://*.gizadeathstar.com/*
+
+# Global Healing Center (USA)
+*://*.globalhealingcenter.com/*
+*://*.globalhealing.com/*
+
+# Global Research (Canada)
+*://*.globalresearch.ca/*
+
+# Global Skywatch (USA)
+*://*.globalskywatch.com/*
+
+# GMO Watch Bias (USA)
+*://*.gmowatch.com/*
+
+# GMWatch (UK)
+*://*.gmwatch.org/*
+
+# Goop (USA)
+*://*.goop.com/*
+
+# Got Questions (USA)
+*://*.gotquestions.org/*
+
+# GreenMedInfo (USA)
+*://*.greenmedinfo.com/*
+
+# Greenpeace (Netherlands)
+*://*.greenpeace.org/*
+
+# Gundry MD (USA)
+*://*.gundrymd.com/*
+
+# Health and Money News (USA)
+*://*.healthandmoneynews.wordpress.com/*
+
+# Healing Oracle (Unknown)
+*://*.healingoracle.ch/*
+
+# Health Sciences Institute (USA)
+*://*.hsionline.com/*
+
+# Healthy Holistic Living (USA)
+*://*.healthy-holistic-living.com/*
+
+# Herb (Canada)
+*://*.herb.co/*
+
+# Higher Perspective (Unknown)
+*://*.higherperspectives.com/*
+
+# Homeopathy Journal (Germany)
+*://*.facultyofhomeopathy.org/*
+
+# Home Vaccine Education Network (USA)
+*://*.homevaccineeducationnetwork.com/*
+
+# ICAN (USA)
+*://*.icandecide.org/*
+
+# iHealthtube (USA)
+*://*.ihealthtube.com/*
+
+# I Heart Intelligence (Bulgaria)
+*://*.iheartintelligence.com/*
+
+# Illuminati Watcher (USA)
+*://*.illuminatiwatcher.com/*
+
+# Independent Science News (USA)
+*://*.independentsciencenews.org/*
+
+# Information Clearing House (USA)
+*://*.informationclearinghouse.info/*
+
+# Institute for Responsible Technology (USA)
+*://*.responsibletechnology.org/*
+
+# International Climate Science Coalition (Canada)
+*://*.climatescienceinternational.org/*
+
+# Jeda News (Italy)
+*://*.jedanews.com/*
+
+# Jehovah’s Witnesses (USA)
+*://*.jw.org/*
+
+# LearnTheRisk.org (USA)
+*://*.learntherisk.org/*
+
+# Life Advancer (USA)
+*://*.lifeadvancer.com/*
+
+# LifeSpa (USA)
+*://*.lifespa.com/*
+
+# LittleThings (USA)
+*://*.littlethings.com/*
+
+# LiveStrong.com (USA)
+*://*.livestrong.com/*
+
+# Media Roots (USA)
+*://*.mediaroots.org/*
+
+# Medical Daily (USA)
+*://*.medicaldaily.com/*
+
+# Medical Medium (USA)
+*://*.medicalmedium.com/*
+
+# Mercola (USA)
+*://*.mercola.com/*
+
+# MindBodyGreen (USA)
+*://*.mindbodygreen.com/*
+
+# Modern Alternative Mama (USA)
+*://*.modernalternativemama.com/*
+
+# National Vaccine Information Center (USA)
+*://*.nvic.org/*
+
+# Nation of Islam (USA)
+*://*.noi.org/*
+
+# Natural Blaze (Unknown)
+*://*.naturalblaze.com/*
+
+# NaturalCures.com (UK)
+*://*.naturalcures.com/*
+
+# Natural Health 365 (USA)
+*://*.naturalhealth365.com/*
+
+# Natural Society (USA)
+*://*.naturalsociety.com/*
+
+# Naturally Savvy (Canada)
+*://*.naturallysavvy.com/*
+
+# Need to Know (USA)
+*://*.needtoknow.news/*
+
+# Neuronation (Germany)
+*://*.neuronation.com/*
+
+# NewsInsideOut.com (USA)
+*://*.newsinsideout.com/*
+
+# News Target (USA)
+*://*.newstarget.com/*
+
+# NutritionFacts.org (USA)
+*://*.nutritionfacts.org/*
+
+# Occupy Yourself (USA)
+*://*.occupyyourself.org/*
+
+# OffGuardian (Unknown)
+*://*.off-guardian.org/*
+
+# Online Updates (Unknown)
+*://*.online-updates.net/*
+
+# Organic Consumers Association (USA)
+*://*.organicconsumers.org/*
+
+# Organic Facts (India)
+*://*.organicfacts.net/*
+
+# Our Health Guides (Unknown)
+*://*.ourhealthguides.com/*
+
+# PETA (USA)
+*://*.peta.org/*
+
+# Physicians for Informed Consent (USA)
+*://*.physiciansforinformedconsent.org/*
+
+# Positive Health Wellness (USA)
+*://*.positivehealthwellness.com/*
+
+# Prepare for Change (Unknown)
+*://*.prepareforchange.net/*
+
+# Prevention Magazine (USA)
+*://*.prevention.com/*
+
+# Prison Planet (USA)
+*://*.prisonplanet.com/*
+*://*.endgamethemovie.com/*
+
+# Prophecy News Watch (USA)
+*://*.prophecynewswatch.com/*
+
+# Prophecy Today (USA)
+*://*.jimmydeyoungjr.org/*
+
+# Real Jew News (USA)
+*://*.realjewnews.com/*
+
+# Return to Now (USA)
+*://*.returntonow.net/*
+
+# SaneVax (USA)
+*://*.sanevax.org/*
+
+# Sante Plus Magazine (Morocco)
+*://*.santeplusmag.com/*
+
+# Science Vibe (USA)
+*://*.sciencevibe.com/*
+*://*.macantogeljuara.com/*
+
+# Skeptiko (USA)
+*://*.skeptiko.com/*
+
+# Stormfront (USA)
+*://*.stormfront.org/*
+
+# Sustainable Pulse (USA)
+*://*.sustainablepulse.com/*
+
+# The Annunaki (Unknown)
+*://*.annunaki.org/*
+
+# The Daily Expose (UK)
+*://*.expose-news.com/*
+
+# The Daily Sheeple (Unknown)
+*://*.thedailysheeple.com/*
+
+# TheDailyWorld.NET (Unknown)
+*://*.thedailyworld.net/*
+*://*.caphemoingay.com/*
+
+# The Event Chronicle (Unknown)
+*://*.theeventchronicle.com/*
+
+# The Final Call (USA)
+*://*.new.finalcall.com/*
+
+# The Greanville Post (USA)
+*://*.greanvillepost.com/*
+
+# The Hearty Soul (Canada)
+*://*.theheartysoul.com/*
+
+# The Highwire (USA)
+*://*.thehighwire.com/*
+
+# The Mind Unleashed (USA)
+*://*.themindunleashed.com/*
+
+# The Pulse (Canada)
+*://*.thepulse.one/*
+
+# The Purist Magazine (USA)
+*://*.thepuristonline.com/*
+
+# The Rundown Live (USA)
+*://*.therundownlive.com/*
+
+# The Truth Seeker (UK)
+*://*.thetruthseeker.co.uk/*
+
+# The Vaccine Reaction (USA)
+*://*.thevaccinereaction.org/*
+
+# Vermont Independent (USA)
+*://*.vermontindependent.net/*
+
+# Waking Times (USA)
+*://*.wakingtimes.com/*
+
+# Thinking Humanity (Unknown)
+*://*.thinkinghumanity.com/*
+
+# Thought Catalog (USA)
+*://*.thoughtcatalog.com/*
+
+# Thrive Global (USA)
+*://*.thriveglobal.com/*
+
+# Thrive Movement (USA)
+*://*.thrivemovement.com/*
+
+# TrialSite News (USA)
+*://*.trialsitenews.com/*
+
+# USA Hitman (Unknown)
+*://*.usahitman.com/*
+
+# Vaccine Papers (Unknown)
+*://*.vaccinepapers.org/*
+
+# Vaccines Revealed (USA)
+*://*.vrevealed.com/*
+
+# Vaccine Safety Info (USA)
+*://*.vaccinesafety.info/*
+
+# VacTruth.com (USA)
+*://*.vactruth.com/*
+
+# Veterans Today (USA)
+*://*.veteranstoday.com/*
+*://*.vtforeignpolicy.com/*
+
+# Watts Up with That (USA)
+*://*.wattsupwiththat.com/*
+
+# We Are Anonymous/AnonHQ (Unknown)
+*://*.anonhq.com/*
+
+# Weston A. Price Foundation (USA)
+*://*.westonaprice.org/*
+
+# World Doctors Alliance (Unknown)
+*://*.worlddoctorsalliance.com/*
+
+# WorldHealth.net (USA)
+*://*.worldhealth.net/*
+
+# World Lifestyle (USA)
+*://*.worldlifestyle.com/*
+
+# X22 Report (USA)
+*://*.x22report.com/*
+
+# YourTango (USA)
+*://*.yourtango.com/*
+
+# Uncut-News (Switzerland)
+*://*.uncutnews.ch/*
+
+# Globe Terminator (Unknown)
+*://*.globeterminator.com/*
+
+# Psychreg (UK)
+*://*.psychreg.org/*
+
+# Truth Theory (UK)
+*://*.truththeory.com/*
+
+
+
+# name: Fake News Media (light version)
+# description: Hides (most) Fake News Media sites
+# homepage: https://github.com/RubenKelevra/ublacklist_fakenews
+
+# 9GAG (Hong Kong)
+*://*.9gag.com/*
+
+# Action News 3 (Unknown)
+*://*.actionnews3.com/*
+
+# Aguascalientes Daily Post (Unknown)
+*://*.aguascalientesdailypost.com/*
+
+# Al Arabiya (Saudi Arabia)
+*://*.english.alarabiya.net/*
+
+# Albany Standard (USA)
+*://*.albanystandard.com/*
+
+# Al Bawaba (Jordan)
+*://*.albawaba.com/*
+
+# Al Mayadeen (Lebanon)
+*://*.english.almayadeen.net/*
+
+# Americans Are Pissed (Unknown)
+*://*.americansarepissed.com/*
+
+# Amoskeag Times (USA)
+*://*.amoskeagtimes.com/*
+
+# Archaeology World (Unknown)
+*://*.archaeology-world.com/*
+
+# The Arizona Independent (USA)
+*://*.arizonaindependent.com/*
+*://*.tainews.com/*
+
+# Augusta-Richmond Herald (USA)
+*://*.augustarichmondherald.com/*
+
+# Baja California Post (Unknown)
+*://*.bajacaliforniapost.com/*
+
+# Basnews Agency (Iraq)
+*://*.basnews.com/*
+
+# Bbarta24 (Bangladesh)
+*://*.en.bbarta24.net/*
+
+# BDNews24 (Bangladesh)
+*://*.bdnews24.com/*
+
+# Beijing Review (China)
+*://*.bjreview.com/*
+
+# Bipartisan Report (USA)
+*://*.bipartisanreport.com/*
+
+# Black Eye Politics (USA)
+*://*.blackeyepolitics.com/*
+
+# Bossip (USA)
+*://*.bossip.com/*
+
+# Breaking911 (USA)
+*://*.breaking911.com/*
+
+# Bucks County Standard (USA)
+*://*.buckscountystandard.com/*
+
+# BuzzLoving (USA)
+*://*.buzzloving.com/*
+
+# Campeche Post (Unknown)
+*://*.campechepost.com/*
+
+# Cancun Post (Unknown)
+*://*.thecancunpost.com/*
+
+# Cap News (Unknown)
+*://*.cap-news.com/*
+
+# Cardinal & Pine (USA)
+*://*.cardinalpine.com/*
+
+# CCTV International (China)
+*://*.english.cctv.com/*
+
+# True Activist (Germany)
+*://*.trueactivist.com/*
+
+# Central Pennsylvania Times (USA)
+*://*.centralpatimes.com/*
+
+# Chihuahua Post (Unknown)
+*://*.thechihuahuapost.com/*
+
+# China Daily (China)
+*://*.chinadaily.com.cn/*
+
+# China Global Television Network (China)
+*://*.cgtn.com/*
+
+# CNS News (USA)
+*://*.mrctv.org/*
+
+# Cobb News (USA)
+*://*.cobbnewsga.com/*
+
+# Columbus News (USA)
+*://*.colonews.org/*
+
+# Copper Courier (USA)
+*://*.coppercourier.com/*
+
+# Council for the National Interest (USA)
+*://*.councilforthenationalinterest.org/*
+
+# CovertAction Magazine (USA)
+*://*.covertactionmagazine.com/*
+
+# Daily Buzz Live (USA)
+*://*.dailybuzzlive.com/*
+
+# Deep Left Field (USA)
+*://*.new.deepleftfield.info/*
+
+# Delaware Valley Sun (USA)
+*://*.delawarevalleysun.com/*
+
+# Democratic National Committee (USA)
+*://*.democrats.org/*
+
+# Durango Post (Unknown)
+*://*.thedurangopost.com/*
+
+# Eagle Rising (Unknown)
+*://*.eaglerising.com/*
+
+# eBaum’s World (USA)
+*://*.ebaumsworld.com/*
+
+# Everett Times (USA)
+*://*.everetttimes.com/*
+
+# Everytown for Gun Safety (USA)
+*://*.everytownresearch.org/*
+
+# Facts.Net (Unknown)
+*://*.facts.net/*
+
+# Fars News (Iran)
+*://*.farsnews.ir/*
+
+# Femalista (USA)
+*://*.femalista.com/*
+
+# Filming Cops (USA)
+*://*.filmingcops.com/*
+
+# Flex Mag (Macedonia)
+*://*.usafortrumponline.com/*
+
+# Floricua (USA)
+*://*.floricuanews.com/*
+
+# Foreign Policy Initiative (USA)
+*://*.foreignpolicyi.org/*
+
+# FrontPage NewsPaper (USA)
+*://*.frontpagenewspaper.com/*
+
+# Geology In (USA)
+*://*.geologyin.com/*
+
+# Gephardt Daily (USA)
+*://*.gephardtdaily.com/*
+
+# Globe Magazine (USA)
+*://*.globemagazine.com/*
+
+# Grand Rapids News (USA)
+*://*.grandrapidsminews.com/*
+
+# Granite Post (USA)
+*://*.granitepostnews.com/*
+
+# Granma (Cuba)
+*://*.granma.cu/*
+
+# Grunge (USA)
+*://*.grunge.com/*
+
+# Guadalajara Post (Unknown)
+*://*.theguadalajarapost.com/*
+
+# Guardian Nigeria (Nigeria)
+*://*.guardian.ng/*
+
+# Gucmakale.com (USA)
+*://*.gucmakale.com/*
+
+# Guerrero Post (Unknown)
+*://*.theguerreropost.com/*
+
+# Gunster News (Unknown)
+*://*.gunsternews.com/*
+
+# Hawar News Agency (Syria)
+*://*.en.hawarnews.org/*
+
+# Head Topics (Unknown)
+*://*.headtopics.com/*
+
+# Henderson Times (USA)
+*://*.hendersontimes.org/*
+
+# Hidalgo Daily Post (Unknown)
+*://*.hidalgodailypost.com/*
+
+# Hindustan Times (India)
+*://*.hindustantimes.com/*
+
+# Hoodsite-USA Crime (USA)
+*://*.usacrime.com/*
+
+# iHarare (Zimbabwe)
+*://*.iharare.com/*
+
+# InfoScum (Canada)
+*://*.infoscum.com/*
+
+# Inner Strength Zone (Canada)
+*://*.innerstrength.zone/*
+
+# Inside the Magic (USA)
+*://*.insidethemagic.net/*
+
+# International Organization for the Family (USA)
+*://*.profam.org/*
+
+# Just The News (USA)
+*://*.justthenews.com/*
+
+# Korean Central News Agency (North Korea)
+*://*.kcna.kp/*
+
+# La Crosse Leader (USA)
+*://*.lacrosseleader.org/*
+
+# LADbible (UK)
+*://*.ladbible.com/*
+
+# Lancaster Courier (USA)
+*://*.lancastercourier.com/*
+
+# Left Action (USA)
+*://*.leftaction.com/*
+
+# Lehigh Valley News (USA)
+*://*.lehighnews.org/*
+
+# Liberty Unyielding (USA)
+*://*.libertyunyielding.com/*
+
+# London Web News (UK)
+*://*.londonwebnews.com/*
+
+# Lucianne.com (USA)
+*://*.lucianne.com/*
+
+# Macomb Digest (USA)
+*://*.macombdigest.com/*
+
+# Mazatlan Post (Unknown)
+*://*.themazatlanpost.com/*
+
+# Mecklenburg Herald (USA)
+*://*.mecklenburgherald.com/*
+
+# MediaBuzz.org (Singapore)
+*://*.mediabuzz.org/*
+
+# MercoPress (Uruguay)
+*://*.en.mercopress.com/*
+
+# Mesa Times (USA)
+*://*.mesatimes.org/*
+
+# Mexico City Post (Unknown)
+*://*.themexicocitypost.com/*
+
+# Mexico Daily Post (Unknown)
+*://*.mexicodailypost.com/*
+
+# Michigan Gander (USA)
+*://*.gandernewsroom.com/*
+
+# Michoacan Post (Unknown)
+*://*.michoacanpost.com/*
+
+# Mid Michigan Standard (USA)
+*://*.midmichiganstd.com/*
+
+# Mile High Sentinel (USA)
+*://*.milehighsentinel.com/*
+
+# Milwaukee Metro Times (USA)
+*://*.milwaukeemetrotimes.com/*
+
+# Mondoweiss (USA)
+*://*.mondoweiss.net/*
+
+# Monterrey Daily Post (Unknown)
+*://*.monterreydailypost.com/*
+
+# Moon of Alabama (USA)
+*://*.moonofalabama.org/*
+
+# Morelos Daily Post (Unknown)
+*://*.morelosdailypost.com/*
+
+# MoveOn (USA)
+*://*.front.moveon.org/*
+
+# MTO News (USA)
+*://*.mtonews.com/*
+*://*.mediatakeout.com/*
+
+# National Right to Life Committee (USA)
+*://*.nrlc.org/*
+
+# National Zero (USA)
+*://*.nationalzero.com/*
+
+# Nayarit Post (Unknown)
+*://*.thenayaritpost.com/*
+
+# NetEase (China)
+*://*.163.com/*
+
+# News Break (USA)
+*://*.newsbreak.com/*
+
+# Newsner (Sweden)
+*://*.en.newsner.com/*
+
+# Nordic Monitor (Sweden)
+*://*.nordicmonitor.com/*
+
+# Northeast Herald (USA)
+*://*.northeastherald.org/*
+
+# Northern Clark County Herald (USA)
+*://*.northernclarkcountyherald.com/*
+
+# Northern Wisconsin Times (USA)
+*://*.northernwitimes.com/*
+
+# Northwest Lake Times (USA)
+*://*.nwlaketimes.com/*
+
+# Now8News (USA)
+*://*.now8news.com/*
+
+# NowThis News (USA)
+*://*.nowthisnews.com/*
+*://*.nowmedianetwork.co/*
+
+# NRL News Today (USA)
+*://*.nationalrighttolifenews.org/*
+
+# Oakland Times (USA)
+*://*.oaklandtimes.org/*
+
+# Oaxaca Post (Unknown)
+*://*.theoaxacapost.com/*
+
+# Occupy Democrats (USA)
+*://*.occupydemocrats.com/*
+
+# Orinoco Tribune (Venezuela)
+*://*.orinocotribune.com/*
+
+# OTP Tribune (USA)
+*://*.otptribune.com/*
+
+# Peachtree Gazette (USA)
+*://*.peachtreegazette.com/*
+
+# Pennsylvania Independent (USA)
+*://*.pennsylvaniaindependent.com/*
+
+# Perez Hilton (USA)
+*://*.perezhilton.com/*
+
+# Piedmont Tribune (USA)
+*://*.piedmonttribune.com/*
+
+# Pima Times (USA)
+*://*.pimatimes.com/*
+
+# Political Flare (USA)
+*://*.politicalflare.com/*
+
+# Politifact News (Unkown)
+*://*.politifact.news/*
+
+# Puebla Post (Unknown)
+*://*.pueblapost.com/*
+
+# Queretaro Post (Unknown)
+*://*.thequeretaropost.com/*
+
+# Quds News Network (Palestine)
+*://*.qudsnen.co/*
+
+# RadarOnline (USA)
+*://*.radaronline.com/*
+
+# RedOrbit (USA)
+*://*.redorbit.com/*
+
+# Rockingham Journal (USA)
+*://*.rockinghamjournal.com/*
+
+# Rock Valley Times (USA)
+*://*.rockvalleytimes.com/*
+
+# Rodong Sinmun (North Korea)
+*://*.rodong.rep.kp/*
+
+# Rudaw (Iraq)
+*://*.rudaw.net/*
+
+# Sacramento Standard (USA)
+*://*.sacramentostandard.com/*
+
+# San Cristobal Post (Unknown)
+*://*.sancristobalpost.com/*
+
+# San Diego City Wire (USA)
+*://*.sandiegocitywire.com/*
+
+# San Luis Potosi Post (Unknown)
+*://*.sanluispotosipost.com/*
+
+# San Miguel Post (Unknown)
+*://*.sanmiguelpost.com/*
+
+# Savannah Sun Times (USA)
+*://*.savannahsuntimes.com/*
+
+# Seacoast Standard (USA)
+*://*.seacoaststandard.org/*
+
+# Seekr (USA)
+*://*.seekr.com/*
+
+# Shafaq News (Iraq)
+*://*.shafaq.com/*
+
+# Sick Chirpse (UK)
+*://*.sickchirpse.com/*
+
+# Skeptic Ink (Unknown)
+*://*.skepticink.com/*
+
+# Sohu.com (China)
+*://*.sohu.com/*
+
+# Sonora Post (Unknown)
+*://*.thesonorapost.com/*
+
+# Southern Colorado Times (USA)
+*://*.southerncoloradotimes.com/*
+
+# Southeastern Times (USA)
+*://*.southeasterntimes.org/*
+
+# Summerlin Reporter (USA)
+*://*.summerlinreporter.com/*
+
+# Syriana Analysis (Germany)
+*://*.syriana-analysis.com/*
+
+# Tabasco Post (Unknown)
+*://*.tabascopost.com/*
+
+# Tamaulipas Post (Unknown)
+*://*.tamaulipaspost.com/*
+
+# Teddy Stick (Unknown)
+*://*.teddystick.com/*
+
+# TeleSUR (Venezuela)
+*://*.telesurenglish.net/*
+
+# Teller Report (Unknown)
+*://*.tellerreport.com/*
+
+# The African Exponent (Tanzania)
+*://*.africanexponent.com/*
+
+# The Angry Patriot (Unknown)
+*://*.angrypatriotmovement.com/*
+
+# The Blue State Conservative (USA)
+*://*.thebluestateconservative.com/*
+
+# The Boston Tribune (Unknown)
+*://*.thebostontribune.com/*
+
+# The Colorado Herald (Unknown)
+*://*.thecoloradoherald.com/*
+
+# The Conservative Brief (USA)
+*://*.theconservativebrief.com/*
+
+# The Daily Boulder (USA)
+*://*.dailyboulder.com/*
+
+# The Duran (Cyprus)
+*://*.theduran.com/*
+
+# The Frisky (Serbia)
+*://*.thefrisky.com/*
+
+# The Grayzone (USA)
+*://*.thegrayzone.com/*
+
+# The Keystone (USA)
+*://*.keystonenewsroom.com/*
+
+# The Last Resistance (USA)
+*://*.lastresistance.com/*
+
+# The Laugh Club (Sweden)
+*://*.thelaughclub.net/*
+
+# The Limited Times (Unknown)
+*://*.newsrnd.com/*
+
+# The Michigan Independent (USA)
+*://*.michiganindependent.com/*
+
+# The Nevadan (USA)
+*://*.thenevadannews.com/*
+
+# The Ohio Independent (USA)
+*://*.ohioindependent.com/*
+*://*.tainews.com/*
+
+# The Proud Liberal (USA)
+*://*.theproudliberal.org/*
+
+# The Ron Paul Institute (USA)
+*://*.ronpaulinstitute.org/*
+
+# The Science News Reporter (Pakistan)
+*://*.thescinewsreporter.com/*
+
+# The Union Journal (Unknown)
+*://*.theunionjournal.com/*
+
+# The Washington Standard
+*://*.thewashingtonstandard.com/*
+
+# The Wisconsin Independent (USA)
+*://*.wisconsinindependent.com/*
+
+# Three Rivers Gazette (USA)
+*://*.threeriversgazette.com/*
+
+# TooFab (USA)
+*://*.toofab.com/*
+
+# Torreon Post (Unknown)
+*://*.thetorreonpost.com/*
+
+# Toutiao (China)
+*://*.toutiao.com/*
+
+# Triangle News (USA)
+*://*.trianglenews.org/*
+
+# Tri-City Record (USA)
+*://*.tri-cityrecord.org/*
+
+# Truth Examiner (Unknown)
+*://*.truthexam.com/*
+
+# True Viral News (Russia)
+*://*.trueviralnews.com/*
+
+# Truth in Media (USA)
+*://*.truthinmedia.com/*
+
+# Two Rivers News (USA)
+*://*.tworiversnews.org/*
+
+# Up North News (USA)
+*://*.upnorthnewswi.com/*
+
+# Upper Peninsula Times (USA)
+*://*.upperpeninsulatimes.com/*
+
+# USAnetwork.info (Unknown)
+*://*.usanetwork.info/*
+
+# Valley Gazette (USA)
+*://*.valleygazette.org/*
+
+# Veracruz Daily Post (Unknown)
+*://*.veracruzdailypost.com/*
+
+# Viral Cocaine (Unknown)
+*://*.viralcocaine.com/*
+
+# Virginia Dogwood (USA)
+*://*.vadogwood.com/*
+
+# Washington Sources (USA)
+*://*.washingtonsources.org/*
+
+# Washoe Gazette (USA)
+*://*.washoegazette.com/*
+
+# Wayne Herald (USA)
+*://*.wayneherald.org/*
+
+# Weibo (China)
+*://*.weibo.com/*
+
+# WhatRegistrater.com (Unknown)
+*://*.whatregistrater.com/*
+
+# What’s the Harm (Unknown)
+*://*.whatstheharm.net/*
+
+# Wisconsin Lake Times (USA)
+*://*.wisconsinlaketimes.com/*
+
+# Wisevoter (USA)
+*://*.wisevoter.com/*
+
+# Women’s Rights News (USA)
+*://*.facebook.com/WOMENSRIGHTSNEWS/*
+
+# WorldGreyNews.Com (Serbia)
+*://*.worldgreynews.com/*
+
+# World News (USA)
+*://*.wn.com/*
+
+# WorldNewsERA (Unknown)
+*://*.worldnewsera.com/*
+
+# World of Buzz (Malaysia)
+*://*.worldofbuzz.com/*
+
+# WorldStarHipHop (USA)
+*://*.worldstarhiphop.com/*
+
+# WorldTimeTodays (USA)
+*://*.worldtimetodays.com/*
+
+# Xinhua English (China)
+*://*.news.cn/*
+
+# Xinhua News Agency (China)
+*://*.xinhuanet.com/*
+
+# Yucatan Post (Unknown)
+*://*.theyucatanpost.com/*
+
+# Yuma Standard (USA)
+*://*.yumastandard.com/*
+
+# Zacatecas Post (Unknown)
+*://*.zacatecaspost.com/*
+
+# News89TV.com (USA)
+*://*.news89tv.com/*
+
+# Good Day Fort Collins (USA)
+*://*.gooddayfortcollins.com/*
+
+# Courier Newsroom (USA)
+*://*.couriernewsroom.com/*
+
+# Bend Daily News (USA)
+*://*.benddailynews.com/*
+
+# FR24 News (Unknown)
+*://*.fr24news.com/*
+
+# NZ Report (Unknown)
+*://*.nzreport.com/*
+
+# Charleston Morning News (USA)
+*://*.charlestonmorning.com/*
+
+# Good Day Gillette (USA)
+*://*.gooddaygillette.com/*
+
+# Good Day Casper (USA)
+*://*.gooddaycasper.com/*
+
+# Good Day Cheyenne (USA)
+*://*.gooddaycheyenne.com/*
+
+# Mision Verdad (Venezuela)
+*://*.misionverdad.com/*
+
+# Good Day Laramie (USA)
+*://*.gooddaylaramie.com/*
+
+# Good Day Sheridan (USA)
+*://*.gooddaysheridan.com/*
+
+# Good Day Billings (USA)
+*://*.gooddaybillings.com/*
