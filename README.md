@@ -6,25 +6,19 @@ I added a bunch of large blocklists and decided to consolidate them into one so 
 
 ---
 
-## Step 1
-
-Install the uBlacklist extension for Firefox.
-
-<p align="center">
+## <p align="center">
 <a href="https://addons.mozilla.org/en-US/firefox/addon/ublacklist/">
 <img src="https://img.shields.io/badge/Install_uBlacklist_for_Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="50">
 </a>
 </p>
 
+
+
 More information about uBlacklist can be found in the [documentation](https://iorate.github.io/ublacklist/docs).
 
 ---
 
-## Step 2
-
-Add the aggregated blocklist.
-
-<p align="center">
+## <p align="center">
 <a href="https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Fechocosm%2Fecho-ublacklist%2Fmain%2Fecho-ublacklist.txt">
 <img src="https://img.shields.io/badge/Add_Aggregated_Blocklist-4A90E2?style=for-the-badge" height="50">
 </a>
@@ -46,12 +40,6 @@ https://raw.githubusercontent.com/echocosm/echo-ublacklist/main/echo-ublacklist.
 
 ---
 
-## Step 3
+### Found a bug? 🐛
 
-That's it. uBlacklist will now use the aggregated blocklist.
-
----
-
-### Found a bug?
-
-[Open an issue](https://github.com/echocosm/echo-ublacklist/issues/new/choose).
+you don't have to open an issue lol just text me
