@@ -1,15 +1,20 @@
 ---
-name: Aggregated Blocklist
+name: echo-ublacklist
 ---
+
+# echo -------------------------------------- START OF CUSTOM
 
 # Wikipedia
 @1 host = "en.wikipedia.org"
+@2 host = "simple.wikipedia.org"
 
 # The Daily Mail
 host =~ /(^|\.)dailymail\.(co\.uk|com)$/
 host =~ /(^|\.)mailplus\.(co\.uk|com)$/
 host =~ /(^|\.)mailonline\.pressreader\.com$/
 host = "dailymail.substack.com"
+
+host = "www.msn.com" & path =~ /^\/en-us\/channel\/source\/daily%20mail/i
 #The Guardian
 host =~ /(^|\.)theguardian\.(co\.uk|com)$/
 host =~ /www.theguardian\.(co\.uk|com)$/
@@ -136,6 +141,10 @@ host = "apps.apple.com" & path *= "gb/app/the-guardian-uk-world-news"
 host = "apps.apple.com" & path *= "gb/app/the-sun-mobile-daily-news"
 host = "apps.apple.com" & path *= "gb/app/the-sun-digital-newspaper"
 host = "apps.apple.com" & path =~ /^\/gb\/app\/the-telegraph-uk-world-news\/id388947468/
+
+# echo -------------------------------------- END OF CUSTOM
+
+# echo -------------------------------------- START OF AGGREGATION
 
 # name: Axel Springer SE
 # description: Hides all Axel Springer SE media outlets, including mentiones/topics on other # sides
@@ -11019,3 +11028,5 @@ host = "apps.apple.com" & path =~ /^\/gb\/app\/the-telegraph-uk-world-news\/id38
 
 # Il Sole 24 Ore (Italy)
 *://*.ilsole24ore.com/*
+
+# echo -------------------------------------- END OF AGGREGATION
