@@ -6,7 +6,7 @@ name: echo-uBlacklist
 
 # Wikipedia
 @1 host = "en.wikipedia.org"
-@2 host = "simple.wikipedia.org"
+
 
 # The Daily Mail
 host =~ /(^|\.)dailymail\.(co\.uk|com)$/
