@@ -22,6 +22,7 @@ I added a bunch of large blocklists and decided to consolidate them into one so 
   <img src="images/add-echo-ublacklist.png" height="100">
 </a>
 
+when this opens an add subscription window in your ublacklist plugin settings, click Add
 
 If the button doesn't work, add it manually:
 
