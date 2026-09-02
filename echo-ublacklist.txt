@@ -3,7 +3,7 @@ name: Aggregated Blocklist
 ---
 
 # Wikipedia
-@1host = "en.wikipedia.org"
+
 
 # The Daily Mail
 host =~ /(^|\.)dailymail\.(co\.uk|com)$/
