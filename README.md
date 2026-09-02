@@ -6,7 +6,7 @@ I added a bunch of large blocklists and decided to consolidate them into one so 
 ---
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/ublacklist/">
-  <img src="images/ublacklist.png" height="100">
+  <img src="images/ublacklist.svg" height="100">
 </a>
 
 [More information about uBlacklist](https://iorate.github.io/ublacklist/docs).
