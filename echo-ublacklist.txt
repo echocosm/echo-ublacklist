@@ -9,6 +9,7 @@ name: Aggregated Blocklist
 host =~ /(^|\.)dailymail\.(co\.uk|com)$/
 host =~ /(^|\.)mailplus\.(co\.uk|com)$/
 host =~ /(^|\.)mailonline\.pressreader\.com$/
+host = "dailymail.substack.com"
 #The Guardian
 host =~ /(^|\.)theguardian\.(co\.uk|com)$/
 host =~ /www.theguardian\.(co\.uk|com)$/
