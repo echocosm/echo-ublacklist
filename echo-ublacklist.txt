@@ -3,7 +3,7 @@ name: Aggregated Blocklist
 ---
 
 # Wikipedia
-
+@1host = "en.wikipedia.org"
 
 # The Daily Mail
 host =~ /(^|\.)dailymail\.(co\.uk|com)$/
@@ -39,7 +39,8 @@ host = "www.dmgmedia.co.uk"
 host = "www.mailmetromedia.co.uk"
 
 # Twitter/X - The Daily Mail
-host = "x.com" & path =~ /^\/DailyMail/ & title =~ /Daily Mail/i
+host = "x.com" & path =~ /^\/DailyMail/
+host = "x.com" & path =~ /^\/DailyMailUK/
 host = "x.com" & path =~ /^\/MailOnline/
 host = "x.com" & path =~ /^\/Daily_MailUS/
 host = "x.com" & path =~ /^\/RE_DailyMail/
