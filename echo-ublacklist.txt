@@ -45,12 +45,7 @@ host = "corporate.telegraph.co.uk"
 host = "www.dmgmedia.co.uk"
 host = "www.mailmetromedia.co.uk"
 # Twitter/X - The Daily Mail
-host = "x.com" & path =~ /^\/DailyMail/
-host = "x.com" & path =~ /^\/DailyMailUK/
-host = "x.com" & path =~ /^\/MailOnline/
-host = "x.com" & path =~ /^\/Daily_MailUS/
-host = "x.com" & path =~ /^\/RE_DailyMail/
-host = "x.com" & path =~ /^\/DMAILhealth/
+host = "x.com" & path =~ /^\/(DailyMail|MailOnline|Daily_MailUS|RE_DailyMail|DMAILhealth)/
 # Twitter/X - The Sun
 host = "x.com" & path =~ /^\/TheSun/
 # Twitter/X - The Guardian
@@ -61,11 +56,7 @@ host = "x.com" & path =~ /^\/thetimes/
 host = "x.com" & path =~ /^\/telegraph/
 host = "x.com" & path =~ /^\/dailytelegraph/
 # YouTube - The Daily Mail
-host = "www.youtube.com" & path =~ /^\/@dailymail/ & title =~ /Daily Mail/i
-host = "www.youtube.com" & path =~ /^\/dailymail/
-host = "www.youtube.com" & path =~ /^\/c\/dailymail/
-host = "www.youtube.com" & path =~ /^\/@DailyMail_News/ & title =~ /Daily Mail/i
-host = "www.youtube.com" & path =~ /^\/channel\/UCw3fku0sH3qA3c3pZeJwdAw/ & title =~ /Daily Mail/i
+host = "www.youtube.com" & path =~ /^\/(@dailymail|@DailyMail_News|channel\/UCw3fku0sH3qA3c3pZeJwdAw)/ & title =~ /Daily Mail/i
 host = "www.youtube.com" & path =~ /^\/channel\/UCGApTJ1s35uvOV2V_R8dQwA/
 # Youtube - The Sun
 host = "www.youtube.com" & path =~ /^\/channel\/UCHpw8xwDNhU9gdohEcJu4aA/
@@ -88,17 +79,12 @@ host = "www.youtube.com" & path =~ /^\/@telegraph/
 host = "www.youtube.com" & path =~ /^\/telegraphtv/
 host = "www.youtube.com" & path =~ /^\/channel\/UCPgLNge0xqQHWM5B5EFH9Cg/
 # Instagram
-host = "www.instagram.com" & path =~ /^\/dailymail/
-host = "www.instagram.com" & path =~ /^\/officaldailymail/
-host = "www.instagram.com" & path =~ /^\/Dailymailuk/
-host = "www.instagram.com" & path =~ /^\/stories\/dailymail/
+host = "www.instagram.com" & path =~ /^\/(dailymail|officaldailymail|Dailymailuk|stories\/dailymail)/
 host = "www.instagram.com" & path =~ /^\/TheSun/
 host = "www.tiktok.com" & title =~ /@dailymail/i
 # Facebook - The Daily Mail
 host = "www.facebook.com" & path =~ /DailyMail/i
-host = "www.facebook.com" & title =~ /Daily Mail TV/i
-host = "www.facebook.com" & title =~ /Daily Mail News/i
-host = "www.facebook.com" & title =~ /Daily Mail US/i
+host = "www.facebook.com" & title =~ /Daily Mail (TV|News|US)/i
 # Facebook - The Guardian
 host = "www.facebook.com" & path =~ /theguardian/i
 # Facebook - The Sun
@@ -4634,7 +4620,7 @@ host = "apps.apple.com" & path =~ /^\/gb\/app\/the-telegraph-uk-world-news\/id38
 # Daily Honker (USA)
 *://*.dailyhonker.com/*
 # Daily Mail (UK)
-*://*.dailymail.co.uk/*
+
 # Daily Presser (USA)
 *://*.dailypresser.com/*
 # Daily Star UK (UK)
@@ -426026,7 +426012,7 @@ title *= "powered by AI" i
 *://*.crowdedmass.com/*
 *://*.crowdgravity.com/*
 *://*.crsspxl.com/*
-*://*.crta.dailymail.co.uk/*
+
 *://*.crtv.mate1.com/*
 *://*.crwdcntrl.net/*
 *://*.crypto-loot.org/*
@@ -427383,7 +427369,7 @@ title *= "powered by AI" i
 *://*.rs6.net/*
 *://*.rsc-ads.vidaahub.com/*
 *://*.rsc-mntz.vidaahub.com/*
-*://*.rta.dailymail.co.uk/*
+
 *://*.rtb.gumgum.com/*
 *://*.rtbadzesto.com/*
 *://*.rtbflairads.com/*
@@ -429899,7 +429885,7 @@ title *= "powered by AI" i
 *://developer.aliyun.com/articlezt/*
 *://digwow.net/*
 *://dingtalk.com/*
-*://discountcode.dailymail.co.uk/*
+
 *://discountcode.mirror.co.uk/*
 *://dlcswm.com/*
 *://dm004.com/*
