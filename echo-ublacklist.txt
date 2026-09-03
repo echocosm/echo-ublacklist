@@ -56,7 +56,7 @@ host = "x.com" & path =~ /^\/thetimes/
 host = "x.com" & path =~ /^\/telegraph/
 host = "x.com" & path =~ /^\/dailytelegraph/
 # YouTube - The Daily Mail
-host = "www.youtube.com" & path =~ /^\/(dailymail|@dailymail|@DailyMail_News|channel\/UCw3fku0sH3qA3c3pZeJwdAw)/ & title =~ /Daily Mail/i
+host = "www.youtube.com" & path =~ /^\/(dailymail|@dailymail|@DailyMail_News|channel\/UCw3fku0sH3qA3c3pZeJwdAw)/
 host = "www.youtube.com" & path =~ /^\/channel\/UCGApTJ1s35uvOV2V_R8dQwA/
 # Youtube - The Sun
 host = "www.youtube.com" & path =~ /^\/channel\/UCHpw8xwDNhU9gdohEcJu4aA/
