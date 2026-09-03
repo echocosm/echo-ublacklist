@@ -1,0 +1,158 @@
+# echo ----------------------------------------------------------------------------------------- START OF HIGHLIGHTS
+
+# Blue - Wikipedia
+@1 host = "en.wikipedia.org"
+
+# Teal - Wikipedia
+@2 host = "simple.wikipedia.org"
+
+# Yellow - Fandom / Fextralife
+@3 host =~ /(^|\.)fandom\.(co\.uk|com)$/
+@3 host =~ /(^|\.)fextralife\.(co\.uk|com)$/
+
+# Green - wiki.gg
+@4 host =~ /(^|\.)wiki\.(gg)$/
+
+# Purple - wiki.gg
+
+# Orange - reddit.com
+@6 host =~ /(^|\.)reddit\.(com)$/
+
+# echo ----------------------------------------------------------------------------------------- END OF HIGHLIGHTS
+
+# --------------------------------------------------- The Daily Mail
+host =~ /(^|\.)dailymail\.(co\.uk|com)$/
+host =~ /(^|\.)mailplus\.(co\.uk|com)$/
+host =~ /(^|\.)mailonline\.pressreader\.com$/
+host = "dailymail.substack.com"
+host = "www.msn.com" & path =~ /^\/en-us\/channel\/source\/daily%20mail/i
+
+# --------------------------------------------------- The Guardian
+host =~ /(^|\.)theguardian\.(co\.uk|com)$/
+host =~ /www.theguardian\.(co\.uk|com)$/
+host = "theguardian.newspapers.com"
+
+# --------------------------------------------------- BBC
+host =~ /(^|\.)bbc\.(co\.uk|com)$/
+
+# --------------------------------------------------- The Sun
+host = "www.news.co.uk"
+
+# --------------------------------------------------- The Times
+host = "www.thetimes.com"
+host = "www.timesonline.co.uk"
+host = "www.thetimesusa.com"
+# The NY Times
+host = "www.nytimes.com"
+host = "www.nytco.com"
+# Telegraph
+host = "dailytelegraph.pressreader.com"
+host = "dailytelegraphnews.com"
+host = "dailytelegraph.co.nz"
+host = "www.telegraphindia.com"
+host = "epaper.telegraphindia.com"
+host = "telegraphmediagroup.com"
+host = "corporate.telegraph.co.uk"
+
+
+# Parents
+host = "www.dmgmedia.co.uk"
+host = "www.mailmetromedia.co.uk"
+
+# Twitter/X - The Daily Mail
+host = "x.com" & path =~ /^\/DailyMail/
+host = "x.com" & path =~ /^\/DailyMailUK/
+host = "x.com" & path =~ /^\/MailOnline/
+host = "x.com" & path =~ /^\/Daily_MailUS/
+host = "x.com" & path =~ /^\/RE_DailyMail/
+host = "x.com" & path =~ /^\/DMAILhealth/
+# Twitter/X - The Sun
+host = "x.com" & path =~ /^\/TheSun/
+# Twitter/X - The Guardian
+host = "x.com" & path =~ /^\/guardian/
+# Twitter/X - The Times
+host = "x.com" & path =~ /^\/thetimes/
+# Twitter/X - The NY Times
+host = "x.com" & path =~ /^\/telegraph/
+host = "x.com" & path =~ /^\/dailytelegraph/
+
+# YouTube - The Daily Mail
+host = "www.youtube.com" & path =~ /^\/@dailymail/ & title =~ /Daily Mail/i
+host = "www.youtube.com" & path =~ /^\/dailymail/
+host = "www.youtube.com" & path =~ /^\/c\/dailymail/
+host = "www.youtube.com" & path =~ /^\/@DailyMail_News/ & title =~ /Daily Mail/i
+host = "www.youtube.com" & path =~ /^\/channel\/UCw3fku0sH3qA3c3pZeJwdAw/ & title =~ /Daily Mail/i
+host = "www.youtube.com" & path =~ /^\/channel\/UCGApTJ1s35uvOV2V_R8dQwA/
+# Youtube - The Sun
+host = "www.youtube.com" & path =~ /^\/channel\/UCHpw8xwDNhU9gdohEcJu4aA/
+host = "www.youtube.com" & path =~ /^\/channel\/UCIRYBXDze5krPDzAEOxFGVA/
+host = "www.youtube.com" & path =~ /^\/channel\/UCIzXayRP7-P0ANpq-nD-h5g/
+host = "www.youtube.com" & path =~ /^\/thesunnewspaper/
+host = "www.youtube.com" & path =~ /^\/@thesun/
+# YouTube - The Guardian
+host = "www.youtube.com" & path =~ /^\/channel\/UCVD6kK-I5NodC1s-JMeuYPw/
+host = "www.youtube.com" & path =~ /^\/TheGuardian/
+host = "www.youtube.com" & path =~ /^\/@theGuardian/
+host = "www.youtube.com" & path =~ /^\/@guardiannews/
+host = "www.youtube.com" & path =~ /^\/c\/guardianwires/
+# Youtube - The Times
+host = "www.youtube.com" & path =~ /^\/@TheTimes/
+host = "www.youtube.com" & path =~ /^\/c\/thetimes/
+host = "www.youtube.com" & path =~ /^\/channel\/UCF-VP3b3oH0XASqsLI5rnLw/
+host = "www.youtube.com" & path =~ /^\/timesonlinevideo/
+host = "www.youtube.com" & path =~ /^\/@telegraph/
+host = "www.youtube.com" & path =~ /^\/telegraphtv/
+host = "www.youtube.com" & path =~ /^\/channel\/UCPgLNge0xqQHWM5B5EFH9Cg/
+
+# Instagram
+host = "www.instagram.com" & path =~ /^\/dailymail/
+host = "www.instagram.com" & path =~ /^\/officaldailymail/
+host = "www.instagram.com" & path =~ /^\/Dailymailuk/
+host = "www.instagram.com" & path =~ /^\/stories\/dailymail/
+host = "www.instagram.com" & path =~ /^\/TheSun/
+
+host = "www.tiktok.com" & title =~ /@dailymail/i
+
+# Facebook - The Daily Mail
+host = "www.facebook.com" & path =~ /DailyMail/i
+host = "www.facebook.com" & title =~ /Daily Mail TV/i
+host = "www.facebook.com" & title =~ /Daily Mail News/i
+host = "www.facebook.com" & title =~ /Daily Mail US/i
+# Facebook - The Guardian
+host = "www.facebook.com" & path =~ /theguardian/i
+# Facebook - The Sun
+host = "www.facebook.com" & path =~ /thesun/i
+
+host = "www.facebook.com" & path =~ /^\/timesandsundaytimes/
+
+host = "www.facebook.com" & path =~ /dailytelegraph/i
+host = "www.facebook.com" & path =~ /TELEGRAPH.CO.UK/i
+
+# Google News - The Daily Mail
+host = "news.google.com" & path *= "/publications/" & title =~ /daily.?mail/i
+host = "news.google.com" & path *= "/publications/" & title =~ /guardian/i
+host = "news.google.com" & path *= "/publications/" & title =~ /The Sun/i
+host = "news.google.com" & path *= "/publications/" & title =~ /The Telegraph/i
+
+host = "play.google.com" & path *= "/store/apps/" & title =~ /daily.?mail/i
+# Google Play - The Times
+host = "play.google.com" & path =~ /^\/store\/apps\/details/ & title =~ /The Times/i
+
+host = "play.google.com" & path =~ /^\/store\/apps\/details/ & title =~ /The Sun/i
+
+host = "play.google.com" & path =~ /^\/store\/apps\/details/ & title =~ /The Telegraph/i
+host = "play.google.com" & path =~ /^\/store\/apps\/details/ & title =~ /The Daily Telegraph/i
+
+# Pressreader
+host = "www.pressreader.com" & path *= "/newspapers/n/daily-mail"
+host = "www.pressreader.com" & path *= "/newspapers/n/the-guardian"
+host = "guardian.pressreader.com"
+host = "www.pressreader.com" & path *= "/newspapers/n/the-daily-telegraph"
+
+# Apple App Store - Daily Mail
+host = "apps.apple.com" & path =~ /^\/[^\/]+\/app\/daily-?mail/i
+host = "apps.apple.com" & path *= "us/app/the-guardian-us-world-news"
+host = "apps.apple.com" & path *= "gb/app/the-guardian-uk-world-news"
+host = "apps.apple.com" & path *= "gb/app/the-sun-mobile-daily-news"
+host = "apps.apple.com" & path *= "gb/app/the-sun-digital-newspaper"
+host = "apps.apple.com" & path =~ /^\/gb\/app\/the-telegraph-uk-world-news\/id388947468/
