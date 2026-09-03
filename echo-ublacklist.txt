@@ -60,8 +60,7 @@ host = "x.com" & path =~ /^\/thetimes/
 host = "x.com" & path =~ /^\/telegraph/
 host = "x.com" & path =~ /^\/dailytelegraph/
 # YouTube - The Daily Mail
-host = "www.youtube.com" & path =~ /^\/(dailymail|@dailymail|@DailyMail_News|channel\/UCw3fku0sH3qA3c3pZeJwdAw)/
-host = "www.youtube.com" & path =~ /^\/channel\/UCGApTJ1s35uvOV2V_R8dQwA/
+host = "www.youtube.com" & path =~ /^\/(@PalaceConfidential|(c\/)?@?daily_?mail(_news)?|channel\/(UCw3fku0sH3qA3c3pZeJwdAw|UCGApTJ1s35uvOV2V_R8dQwA|UC11Ou7XRIf2JVSAKQEXSPnw|UClTgZsk-W7i0uPCT9qXwEIA|UCPjefiBPcJ5MbT06d4D8KbA|UC8xUlHMU8Zsm2l8q7iEEAww))/i
 # Youtube - The Sun
 host = "www.youtube.com" & path =~ /^\/channel\/UCHpw8xwDNhU9gdohEcJu4aA/
 host = "www.youtube.com" & path =~ /^\/channel\/UCIRYBXDze5krPDzAEOxFGVA/
