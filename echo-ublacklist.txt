@@ -7,10 +7,10 @@ name: echo-uBlacklist
 # Wikipedia
 @1 host = "en.wikipedia.org"
 @2 host = "simple.wikipedia.org"
-@3 host = "fandom.com"
-@3 host = "fextralife.com"
+@3 host =~ /(^|\.)fandom\.(co\.uk|com)$/
+@3 host =~ /(^|\.)fextralife\.(co\.uk|com)$/
 
-@4 host = "wiki.gg"
+@4 host =~ /(^|\.)wiki\.(gg)$/
 
 # The Daily Mail
 host =~ /(^|\.)dailymail\.(co\.uk|com)$/
